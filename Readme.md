@@ -9,6 +9,7 @@ If you’re comfortable with programming, you can use the AWS SDKs (like Boto3 f
 Note: Before this, install AWS CLI client and configure your access. Documentation: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html . 
 
 AWS Credentials Configuration: You need to configure AWS credentials to allow boto3 to authenticate and make API calls. 
+
 IAM Permissions: Ensure that the IAM user or role associated with the credentials has the necessary permissions to create users, groups, and manage access keys in AWS IAM.
 
 2. Write Your Python Code
